@@ -1,4 +1,3 @@
-# Animal-shelter-outcome-analysis
 # Animal Shelter Outcome Analysis
 
 ## Project Overview

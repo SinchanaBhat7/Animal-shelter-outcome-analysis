@@ -33,6 +33,9 @@ The project focuses on data preprocessing, exploratory data analysis, and basic 
 - `README.md`  
   Project documentation.
 
+- `Pet adoption outcome analysis.pbix`
+  Power BI dashboard to visualizing key insights such as outcome distribution,animal type trends and adoption patterns.
+
 ---
 
 ## Key Analysis Performed
@@ -45,7 +48,7 @@ The project focuses on data preprocessing, exploratory data analysis, and basic 
 
 ## How to View This Project
 1. Open `animal_outcome_prediction.ipynb` to view the full analysis and modeling steps.
-2. Review visualizations and model results within the notebook.
+2. Open the `pet adoption outcome analysis.pbix` using powerbi desktop to explotre interactive dashboards and insights
 
 ---
 
